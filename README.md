@@ -1,167 +1,54 @@
-<p align="center">
-  <img src="docs/assets/profile-banner.png" width="100%" />
-</p>
-
 # SynovaIA
 
-**Enterprise Intelligent Infrastructure**
+**End-to-end systems engineering · AI automation · Software architecture**
 
-Designing enterprise AI infrastructure, intelligent automation systems, and production-grade orchestration architectures.
+SynovaIA is my engineering workspace for designing, building, integrating, testing, and deploying software systems—from requirements and architecture through application logic, data, APIs, orchestration, and operational execution.
 
----
-
-## Executive Overview
-
-SynovaIA builds intelligent infrastructure for enterprises requiring operational excellence, scalable automation, and production-grade AI systems.
-
-We transform operational complexity into structured, reliable, and intelligent architectures capable of supporting mission-critical workloads at scale.
-
-Our focus: enterprise-ready AI infrastructure, intelligent orchestration platforms, and production automation systems engineered for reliability, governance, and scalability.
+My focus is turning complex requirements into systems that can be inspected, validated, and operated. The projects below represent a mix of implementation, demonstrations, and architecture work; each repository should be evaluated according to its documented scope.
 
 ---
 
-## Enterprise Capabilities
+## Engineering focus
 
-### Intelligent Automation Systems
-- Enterprise workflow orchestration
-- Multi-stage automation pipelines
-- Real-time processing architectures
-- Production-grade system integrations
-- Automated decision frameworks
+- **Full-stack systems:** frontend, backend services, databases, and API integrations
+- **Automation & orchestration:** workflows that coordinate multiple steps and systems
+- **AI-enabled engineering:** using AI within structured requirements, validation, and execution processes
+- **Deployment & operations:** integration, testing, and bringing software into an operating environment
+- **Architecture:** translating business needs into technical plans and implementation paths
 
-### Architecture Engineering
-- Structural validation systems
-- Technical consistency frameworks
-- System architecture analysis
-- Production blueprint generation
-- Deployment optimization
+## Selected repositories
 
-### Edge Intelligence & Distributed Systems
-- Real-time vision processing
-- Distributed edge deployments
-- Smart monitoring infrastructures
-- IoT integration frameworks
-- Edge-to-cloud architectures
+### [PRD Engine](https://github.com/SynovaIA/prd-engine)
+A project focused on requirements-to-architecture and governed execution concepts. Review the source code and repository documentation for the implemented scope; architecture claims and future capabilities are not assumed to be implemented.
 
-### Infrastructure Platforms
-- Enterprise API ecosystems
-- Scalable data architectures
-- Realtime synchronization systems
-- Distributed caching layers
-- Containerized execution environments
-- Resilient pipeline orchestration
+### [AI Workflows](https://github.com/SynovaIA/ai-workflows)
+A collection of workflow and orchestration concepts. Examples and patterns are documented as such and should not be interpreted as a complete production platform.
 
-### Security & Operational Reliability
-- System integrity validation
-- Comprehensive observability
-- Fault-tolerant architectures
-- Idempotent execution models
-- Secure workflow enforcement
-- Production hardening protocols
+### [SynovaAI](https://github.com/SynovaIA/SynovaAI)
+SynovaIA's engineering overview and architecture-oriented documentation.
 
----
+## How I approach engineering
 
-## Intelligent Infrastructure Philosophy
+1. Understand the problem and define requirements.
+2. Translate requirements into architecture and a concrete execution plan.
+3. Implement the system components and integrations.
+4. Test behavior, edge cases, and system boundaries.
+5. Deploy and evaluate operation; iterate based on evidence.
 
-Infrastructure must be invisible, reliable, and scalable.
+## Project status and evidence
 
-We engineer systems that operate with precision under load, maintain consistency across distributed environments, and provide deterministic behavior in complex operational contexts.
+I aim to distinguish clearly between:
+- **Implemented:** functionality present in the repository or demonstrably operating.
+- **Demonstration:** code or examples intended to illustrate a pattern.
+- **Architecture / blueprint:** design artifacts or planned execution paths.
 
-Our approach prioritizes:
-- **Architectural clarity** over ad-hoc solutions
-- **Operational determinism** over experimental patterns
-- **Production resilience** over rapid iteration
-- **Enterprise governance** over unconstrained flexibility
+Production status, performance, compliance, and reliability claims should be supported by reproducible evidence, test results, deployment details, or operational measurements. Where that evidence is not published, I do not present the claim as verified.
+
+## Contact
+
+- GitHub: [SynovaIA](https://github.com/SynovaIA)
+- LinkedIn: [SynovaIA](https://www.linkedin.com/in/synovaia/)
 
 ---
 
-## Operational Reliability
-
-Production systems demand engineering discipline.
-
-Our infrastructure is designed around core reliability principles:
-- Deterministic execution under variable load
-- Graceful degradation during partial failures
-- Automatic recovery without manual intervention
-- Consistent state management across distributed nodes
-- Predictable latency characteristics
-
-Reliability is not a feature—it is the foundation.
-
----
-
-## AI Governance Principles
-
-Intelligent systems require structured governance.
-
-We implement:
-- Audit-capable execution trails
-- Policy-enforced workflow boundaries
-- Validated transformation pipelines
-- Controlled automation scopes
-- Compliance-aligned architecture patterns
-
-Governance enables scale without sacrificing control.
-
----
-
-## Enterprise Integration Readiness
-
-Enterprise environments demand seamless integration.
-
-Our systems are engineered for:
-- Heterogeneous technology ecosystems
-- Legacy system interoperability
-- Multi-cloud deployment models
-- Hybrid infrastructure topologies
-- Standardized interface contracts
-
-Integration is architectural, not adhesive.
-
----
-
-## Security & Compliance Positioning
-
-Security is embedded at the architectural layer.
-
-We enforce:
-- Defense-in-depth principles
-- Zero-trust execution models
-- Encrypted data transit and persistence
-- Role-based access control frameworks
-- Audit-ready logging architectures
-
-Compliance is designed in, not bolted on.
-
----
-
-## Scalability Philosophy
-
-Scale is a consequence of sound architecture.
-
-We design for:
-- Horizontal expansion without re-architecture
-- Load distribution without coordination bottlenecks
-- State partitioning without consistency loss
-- Resource elasticity without operational overhead
-
-Scalability emerges from structural integrity.
-
----
-
-## SynovaIA Vision
-
-We are building the infrastructure layer for intelligent enterprise operations.
-
-Our mission: enable organizations to deploy AI-driven automation with confidence, governed by engineering rigor and designed for production reality.
-
-**From architecture to execution — engineered for enterprise.**
-
----
-
-## Leadership
-
-**Smtih Soto**  
-Founder & Chief Architect @ SynovaIA
-
-*Designing enterprise AI infrastructure for production-grade intelligent systems.*
+*Engineering systems from requirements to execution.*
