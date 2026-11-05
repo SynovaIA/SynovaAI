@@ -2,7 +2,7 @@
 
 **End-to-end systems engineering · AI automation · Software architecture**
 
-SynovaIA is the engineering workspace of Smith Soto. I design, build, integrate, test, and deploy software systems—from requirements and architecture through application logic, data, APIs, orchestration, and operational execution.
+SynovaIA is my engineering workspace for designing, building, integrating, testing, and deploying software systems—from requirements and architecture through application logic, data, APIs, orchestration, and operational execution.
 
 My focus is turning complex requirements into systems that can be inspected, validated, and operated. The projects below represent a mix of implementation, demonstrations, and architecture work; each repository should be evaluated according to its documented scope.
 
